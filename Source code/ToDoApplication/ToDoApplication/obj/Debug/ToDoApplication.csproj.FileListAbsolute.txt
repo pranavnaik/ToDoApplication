@@ -1,0 +1,199 @@
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\ApplicationInsights.config
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\csc.exe
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\vbc.exe
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll.config
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\ToDoApplication.pdb
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Razor.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Razor.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.xml
+C:\CCITest\Final\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
+C:\CCITest\Final\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+C:\CCITest\Final\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojResolveAssemblyReference.cache
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\ApplicationInsights.config
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\csc.exe
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\vbc.exe
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll.config
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\ToDoApplication.pdb
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Razor.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Razor.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.xml
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
+C:\CreativeTest\Final\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+C:\Delivery\ToDoApplication\ToDoApplication\bin\ApplicationInsights.config
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\csc.exe
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\vbc.exe
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe
+C:\Delivery\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Delivery\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll.config
+C:\Delivery\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\ToDoApplication.pdb
+C:\Delivery\ToDoApplication\ToDoApplication\bin\EntityFramework.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Razor.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.dll
+C:\Delivery\ToDoApplication\ToDoApplication\bin\EntityFramework.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Razor.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.xml
+C:\Delivery\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.xml
+C:\Delivery\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojResolveAssemblyReference.cache
+C:\Delivery\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
+C:\Delivery\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\ApplicationInsights.config
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\csc.exe
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\vbc.exe
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll.config
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\ToDoApplication.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\ToDoApplication.pdb
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\EntityFramework.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Razor.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\EntityFramework.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\EntityFramework.SqlServer.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.Web.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Razor.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Webpages.Razor.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Helpers.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\bin\System.Web.Mvc.xml
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.csprojResolveAssemblyReference.cache
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
+C:\Delivery\Source code\ToDoApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
